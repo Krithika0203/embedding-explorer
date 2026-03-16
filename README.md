@@ -27,20 +27,6 @@ https://embedding-explorer-34ehwsucdjcjaa84xfbyjf.streamlit.app/
 
 ---
 
-## 📂 Project Structure
-
-embedding_demo
-│
-├── app.py
-├── embeddings.py
-├── config.py
-├── data_store.py
-├── .env
-├── requirements.txt
-└── README.md
-
----
-
 ## 📸 Example
 
 Add text entries and search for similar ones using embeddings.
